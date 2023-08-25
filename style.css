@@ -460,7 +460,7 @@ div#sea {
 }
 
 .invitation {
-  background-color: rgb(5, 153, 238);
+  background-color: #e9b64b, #c76075 15%, #0d0d4b 75%, #190e14 90%;
   padding: 30px;
   border-radius: 10px;
   box-shadow: 0 0 20px rgba(0, 0, 0, 0.4);
